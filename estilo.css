@@ -49,6 +49,7 @@ p#aside {
 }
 footer {
     background-color: rgb(185, 184,189);
+    text-align: center;
 }
 footer p{
     text-align: center;
