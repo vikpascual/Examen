@@ -16,14 +16,16 @@ div.nav {
     width: 20%;
     border-top-left-radius: 10%;
     border-top-right-radius: 10%;
-
     color: white;
     background-color: black;
     float: left;
     height: 25px;
     margin-left: 5px;
 }
-div.nav a {
+div.nav:hover {
+    background-color: rgb(164, 162, 100);
+}
+div.nav a{
     color: white;
 }
 hr {
@@ -58,5 +60,8 @@ p{
     font-size: 130%;
 }
 h2 {
+    text-align: center;
+}
+iframe {
     text-align: center;
 }
