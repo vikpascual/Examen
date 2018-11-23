@@ -44,6 +44,7 @@ aside {
     float: left;
 }
 p#aside {
+    text-align: left;
     color: rgb(151, 138, 212);
     font-size: 125%;
 }
@@ -51,7 +52,7 @@ footer {
     background-color: rgb(185, 184,189);
     text-align: center;
 }
-footer p{
+p{
     text-align: center;
     height: 5%;
     font-size: 130%;
