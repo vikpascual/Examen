@@ -1,0 +1,60 @@
+body {
+    margin: 3%;
+}
+div.logo {
+    width: 100%;
+    background-color: rgb(185, 184,189);
+}
+div.logo p {
+    text-align: center;
+}
+nav {
+    text-align: center;
+    margin-left: 15%;
+}
+div.nav {
+    width: 20%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+
+    color: white;
+    background-color: black;
+    float: left;
+    height: 25px;
+    margin-left: 5px;
+}
+div.nav a {
+    color: white;
+}
+hr {
+    border: 3px solid;
+    color: black;
+}
+p.portada {
+    color: rgb(151, 138, 212);
+    text-align: center;
+    font-size: 125%;
+}
+section.principal {
+    float: left;
+    width: 80%;
+}
+aside {
+    width: 20%;
+    float: left;
+}
+p#aside {
+    color: rgb(151, 138, 212);
+    font-size: 125%;
+}
+footer {
+    background-color: rgb(185, 184,189);
+}
+footer p{
+    text-align: center;
+    height: 5%;
+    font-size: 140%;
+}
+h2 {
+    text-align: center;
+}
